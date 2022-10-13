@@ -2,6 +2,9 @@
 
 https://www.youtube.com/watch?v=O1KeXo8lE8A
 
+https://raw.githubusercontent.com/RodrigoMvs123/Stack-Data-Structure-Tutorial-Solve-Coding-Challenges/main/README.md
+
+
 
 SECTION 0 – Introduction
 ⌨️ (0:00:00) Introduction to the course on the Stack data structure
